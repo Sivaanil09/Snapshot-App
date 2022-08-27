@@ -1,0 +1,17 @@
+{
+	"short_name": "snapshots",
+	"name": "Snapshots",
+	"description": "A website to share snapshots",
+	"icons": [
+		{
+			"src": "logo.png",
+			"sizes": "50x50",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#ffffff",
+	"background_color": "#000000"
+}
