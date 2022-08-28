@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const apiURL = ['http://localhost:5000']
+const apiURL = ['https://snapshots-web.herokuapp.com/', 'http://localhost:5000']
 // const apiURL = ['https://memories-pritam.herokuapp.com', 'http://localhost:5000']
 const API = axios.create({ baseURL: apiURL[0] })
 
